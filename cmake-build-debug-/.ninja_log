@@ -1,8 +1,0 @@
-# ninja log v5
-0	35	1681028805000230600	Upper_autogen/timestamp	3e73082f7ee78cfa
-0	35	1681028805000230600	Upper_autogen/mocs_compilation.cpp	3e73082f7ee78cfa
-0	35	1681028805000230600	/Users/unenfantseul/Documents/CLion/Upper/cmake-build-debug-/Upper_autogen/timestamp	3e73082f7ee78cfa
-0	35	1681028805000230600	/Users/unenfantseul/Documents/CLion/Upper/cmake-build-debug-/Upper_autogen/mocs_compilation.cpp	3e73082f7ee78cfa
-35	59	1681028805028247274	CMakeFiles/Upper.dir/Upper_autogen/mocs_compilation.cpp.o	69da955acef69ce3
-36	781	1681028805747845890	CMakeFiles/Upper.dir/main.cpp.o	5053412402b7b4a5
-783	921	1681028805889421395	Upper	bb4fbac60f8d603d
