@@ -1,0 +1,3 @@
+/Users/unenfantseul/Documents/CLion/Basic/cmake-build-debug/CMakeFiles/Basic.elf.dir
+/Users/unenfantseul/Documents/CLion/Basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/unenfantseul/Documents/CLion/Basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
